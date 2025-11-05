@@ -21,7 +21,7 @@ const data = {
     {
       role:'Senior Software Developer',
       company:'Fresenius Medical Care',
-      dates:'Oct 2023 – Present',
+      dates:'May 2024 – Present',
       project:'Healthcare platform (patients, doctors, admins, insurers) with teleconsultations, HIPAA-aligned data handling, microservices + CI/CD.',
       bullets:[
               'Role-based dashboards with React Context/Redux.',
